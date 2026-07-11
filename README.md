@@ -63,5 +63,6 @@ Aspiring Cyber Security & AI Engineer
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=utsawkumar999&layout=compact&theme=tokyonight)
 
 
-## 🏆 GitHub Trophies
-[![Trophy](https://github-profile-trophy.vercel.app/?username=utsawkumar999)](https://github.com/ryo-ma/github-profile-trophy)
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=utsawkumar999&label=Profile%20Views&color=0e75b6&style=flat)
