@@ -52,3 +52,10 @@ Aspiring Cyber Security & AI Engineer
 ---
 
 ⭐ **Always learning, always building, and always improving.**
+
+
+## 📊 GitHub Stats
+
+![Utsaw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utsawkumar999&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utsawkumar999&layout=compact&theme=github_dark)
