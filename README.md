@@ -63,6 +63,6 @@ Aspiring Cyber Security & AI Engineer
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=utsawkumar999&layout=compact&theme=tokyonight)
 
 
-Vq## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=utsawkumar999&theme=algolia&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
