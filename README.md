@@ -12,7 +12,7 @@ Aspiring Cyber Security & AI Engineer
 - 🎓 3rd-Year B.Tech CSE (Artificial Intelligence) Student
 - 💼 Currently working as an **IT Intern at Bharti Airtel**
 - 💻 Passionate about **Python, AI, Cyber Security & Software Development**
-- 🌱 Currently learning **Machine Learning, Networking & Cloud Computing**
+- 🌱 Currently learning **Machine Learning, Computer Networking & Cloud Computing**
 - 🚀 Building real-world projects using Python
 - 🎯 Goal: Become a Software Engineer & Cyber Security Professional
 
