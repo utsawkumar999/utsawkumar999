@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Utsaw Kumar Banner">
+</p>
 <h1 align="center">Hi 👋, I'm Utsaw Kumar</h1>
 
 <h3 align="center">
