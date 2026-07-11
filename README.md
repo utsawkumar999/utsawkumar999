@@ -56,6 +56,6 @@ Aspiring Cyber Security & AI Engineer
 
 ## 📊 GitHub Stats
 
-![Utsaw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utsawkumar999&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=utsawkumar999&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utsawkumar999&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=utsawkumar999&layout=compact&theme=tokyonight)
