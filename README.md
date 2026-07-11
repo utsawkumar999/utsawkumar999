@@ -31,13 +31,15 @@ Aspiring Cyber Security & AI Engineer
 
 ## 🚀 Featured Projects
 
-### 📌 Telegram Image & Location Tracker Bot
+## 📌 [Telegram Image & Location Tracker Bot](https://github.com/utsawkumar999/telegram-company-bot)
+
 - Python-based Telegram Bot
 - Image Upload & Location Tracking
 - SQLite Database
 - Admin Dashboard
 
-### 🏠 House Price Prediction
+## 🏠 [House Price Prediction](https://github.com/utsawkumar999/House-price-prediction)
+
 - Machine Learning Project
 - Linear Regression
 - Python & Scikit-learn
