@@ -64,5 +64,4 @@ Aspiring Cyber Security & AI Engineer
 
 
 ## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=utsawkumar999&theme=algolia&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=utsawkumar999)](https://github.com/ryo-ma/github-profile-trophy)
